@@ -1,0 +1,53 @@
+{
+    "name": "react-native-screen-edges-defer-system-gestures",
+    "version": "0.1.0",
+    "description": "A declarative approach for overriding gestures on edge of screen",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest --coverage",
+        "test-watch": "jest --watch",
+        "eslint": "eslint .",
+        "codecov": "codecov"
+    },
+    "keywords": [
+        "react-native",
+        "Home Indicator",
+        "prefersHomeIndicatorAutoHidden",
+        "iphoneX"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Jonovono/react-native-screen-edges-defer-system-gestures"
+    },
+    "author": "howlett.sexy",
+    "contributors": [
+        {
+            "name": "Jordan Howlett"
+        }
+    ],
+    "license": "MIT",
+    "peerDependencies": {
+        "react-native": "^0.41.2"
+    },
+    "devDependencies": {
+        "@react-native-community/eslint-config": "^3.0.1",
+        "babel-eslint": "^10.1.0",
+        "babel-jest": "^27.2.5",
+        "codecov": "^3.7.2",
+        "eslint": "^7.32.0",
+        "eslint-plugin-import": "^2.25.2",
+        "jest": "^27.2.5",
+        "metro-react-native-babel-preset": "^0.66.2",
+        "prettier": "^2.4.1",
+        "react": "^17.0.2",
+        "react-native": "^0.66.1",
+        "react-test-renderer": "^17.0.2"
+    },
+    "files": [
+        "ios",
+        "react-native-screen-edges-defer-system-gestures.podspec"
+    ],
+    "jest": {
+        "preset": "react-native"
+    }
+}
