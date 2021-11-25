@@ -11,8 +11,8 @@
     },
     "keywords": [
         "react-native",
-        "Home Indicator",
-        "prefersHomeIndicatorAutoHidden",
+        "Defer Screen Edges",
+        "preferredScreenEdgesDeferringSystemGestures",
         "iphoneX"
     ],
     "repository": {

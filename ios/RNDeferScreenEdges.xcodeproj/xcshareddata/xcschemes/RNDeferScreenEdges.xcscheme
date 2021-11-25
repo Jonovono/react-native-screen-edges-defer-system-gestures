@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "58B511DA1A9E6C8500147676"
-               BuildableName = "libRNHomeIndicator.a"
-               BlueprintName = "RNHomeIndicator"
+               BuildableName = "libRNDeferScreenEdges.a"
+               BlueprintName = "RNDeferScreenEdges"
                ReferencedContainer = "container:RNDeferScreenEdges.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -51,8 +51,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "58B511DA1A9E6C8500147676"
-            BuildableName = "libRNHomeIndicator.a"
-            BlueprintName = "RNHomeIndicator"
+            BuildableName = "libRNDeferScreenEdges.a"
+            BlueprintName = "RNDeferScreenEdges"
             ReferencedContainer = "container:RNDeferScreenEdges.xcodeproj">
          </BuildableReference>
       </MacroExpansion>

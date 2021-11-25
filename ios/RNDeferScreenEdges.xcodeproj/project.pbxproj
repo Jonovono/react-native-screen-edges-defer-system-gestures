@@ -23,7 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		134814201AA4EA6300B7C361 /* libRNHomeIndicator.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libRNHomeIndicator.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		134814201AA4EA6300B7C361 /* libRNDeferScreenEdges.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libRNDeferScreenEdges.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		17CECD76274FC717006AE690 /* RNDeferScreenEdges.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RNDeferScreenEdges.h; sourceTree = "<group>"; };
 		17CECD77274FC717006AE690 /* RNDeferScreenEdges.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RNDeferScreenEdges.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -42,7 +42,7 @@
 		134814211AA4EA7D00B7C361 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				134814201AA4EA6300B7C361 /* libRNHomeIndicator.a */,
+				134814201AA4EA6300B7C361 /* libRNDeferScreenEdges.a */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -59,9 +59,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		58B511DA1A9E6C8500147676 /* RNHomeIndicator */ = {
+		58B511DA1A9E6C8500147676 /* RNDeferScreenEdges */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 58B511EF1A9E6C8500147676 /* Build configuration list for PBXNativeTarget "RNHomeIndicator" */;
+			buildConfigurationList = 58B511EF1A9E6C8500147676 /* Build configuration list for PBXNativeTarget "RNDeferScreenEdges" */;
 			buildPhases = (
 				58B511D71A9E6C8500147676 /* Sources */,
 				58B511D81A9E6C8500147676 /* Frameworks */,
@@ -71,9 +71,9 @@
 			);
 			dependencies = (
 			);
-			name = RNHomeIndicator;
+			name = RNDeferScreenEdges;
 			productName = RCTDataManager;
-			productReference = 134814201AA4EA6300B7C361 /* libRNHomeIndicator.a */;
+			productReference = 134814201AA4EA6300B7C361 /* libRNDeferScreenEdges.a */;
 			productType = "com.apple.product-type.library.static";
 		};
 /* End PBXNativeTarget section */
@@ -103,7 +103,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				58B511DA1A9E6C8500147676 /* RNHomeIndicator */,
+				58B511DA1A9E6C8500147676 /* RNDeferScreenEdges */,
 			);
 		};
 /* End PBXProject section */
@@ -212,7 +212,7 @@
 				);
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
 				OTHER_LDFLAGS = "-ObjC";
-				PRODUCT_NAME = RNHomeIndicator;
+				PRODUCT_NAME = RNDeferScreenEdges;
 				SKIP_INSTALL = YES;
 			};
 			name = Debug;
@@ -228,7 +228,7 @@
 				);
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
 				OTHER_LDFLAGS = "-ObjC";
-				PRODUCT_NAME = RNHomeIndicator;
+				PRODUCT_NAME = RNDeferScreenEdges;
 				SKIP_INSTALL = YES;
 			};
 			name = Release;
@@ -245,7 +245,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		58B511EF1A9E6C8500147676 /* Build configuration list for PBXNativeTarget "RNHomeIndicator" */ = {
+		58B511EF1A9E6C8500147676 /* Build configuration list for PBXNativeTarget "RNDeferScreenEdges" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				58B511F01A9E6C8500147676 /* Debug */,
