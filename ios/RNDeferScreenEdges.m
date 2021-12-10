@@ -5,7 +5,7 @@
 
 - (UIRectEdge)preferredScreenEdgesDeferringSystemGestures
 {
-    return UIRectEdgeAll;
+    return UIRectEdgeBottom;
 }
 
 @end
