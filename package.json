@@ -1,6 +1,6 @@
 {
     "name": "react-native-screen-edges-defer-system-gestures",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "description": "A declarative approach for overriding gestures on edge of screen",
     "main": "index.js",
     "scripts": {
